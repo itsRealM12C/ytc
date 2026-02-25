@@ -18,9 +18,12 @@ YouTube TV Cobalt Windows VBScript Port by itsRealM13C.
 
 # Hotkeys
 
-
+### Search
 `F2` - << Backwards <br>
 `F3` - >> Fast forward <br>
+`Ü`/`-` - Voice search <br>
+
+### Home
 `F4` - Left arrow like key <br>
 `F5` - Right arrow like key <br>
 `F6` - OK/enter like key <br>
@@ -31,13 +34,19 @@ YouTube TV Cobalt Windows VBScript Port by itsRealM13C.
 `⌫`/`Backspace` - Back button <br>
 `Ctrl + R` - Reloads the page <br>
 `S` - Brings you to the search bar <br>
-`Ü`/`-` - Voice search <br>
 `Ctrl + Shift + C` - Opens DevTools <br>
 `Ctrl + Shift + J` - Opens DevTools <br>
 `Ctrl + W`/`Alt + F4` - Closes YouTube TV app entirely <br>
 
-## Unnecessary hotkeys
+### Up Next 
+`G` - Goes to home from Up next tab <br>
 
+### Video
+`L` - >> Fast Forward <br>
+`J` - << Backward <br>
+`É`/`/` - Next video <br>
+
+## Unnecessary hotkeys
 `F1` - Brings you to the Chrome Help (unnecessary) <br>
 `F7` - Enable Browse with keyboard (Possibly unnecessary) <br>
 `Ctrl + Alt + 2` - Just types `dead` or `Undefined` on a search bar (unnecessary) <br>
@@ -51,3 +60,4 @@ YouTube TV Cobalt Windows VBScript Port by itsRealM13C.
 `Ctrl + Shift + N` - Brings you to the Incognito Mode <br>
 `Ctrl + Shift + T` - Brings you to the Chroem Help (unnecessary) <br>
 
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
