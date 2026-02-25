@@ -1,28 +1,18 @@
 # ytc
 YouTube TV Cobalt Windows VBScript Port by itsRealM13C.
-
-<a href="YouTubeTVPort.vbs" download>Download here</a> <a href="YouTubeTVPortWithVS.vbs" download>Download here with voice search support</a>
-
+<a href="YouTubeTVPort.vbs" download>Download here</a><p></p><a href="YouTubeTVPortWithVS.vbs" download>Download here with voice search support</a> 
 ### Might not be supported on older OSes.
-
 <img src="https://raw.githubusercontent.com/itsRealM12C/ytc/refs/heads/main/Screenshot%202026-02-19%20132037.png"></img>
-
 <img src="https://raw.githubusercontent.com/itsRealM12C/ytc/refs/heads/main/idkdd.png"></img>
-
-
 ## It has:
-
 * Playback speed support <br>
 * Voice search support <br>
 * Supports Cobalt <br>
-
 # Hotkeys
-
 ### Search
 `F2` - << Backwards <br>
 `F3` - >> Fast forward <br>
 `Ü`/`-` - Voice search <br>
-
 ### Home
 `F4` - Left arrow like key <br>
 `F5` - Right arrow like key <br>
@@ -37,22 +27,16 @@ YouTube TV Cobalt Windows VBScript Port by itsRealM13C.
 `Ctrl + Shift + C` - Opens DevTools <br>
 `Ctrl + Shift + J` - Opens DevTools <br>
 `Ctrl + W`/`Alt + F4` - Closes YouTube TV app entirely <br>
-
 ### Up Next 
 `G` - Goes to home from Up next tab <br>
-
 ### Video
 `L` - >> Fast Forward <br>
 `J` - << Backward <br>
 `É`/`/` - Next video <br>
-
-
 ### Shorts
-
 `H` - Scroll up <br>
 `K` - Pause <br>
-`É` - Scroll down <br>
-
+`É`/`/` - Scroll down <br>
 ## Unnecessary hotkeys
 `F1` - Brings you to the Chrome Help (unnecessary) <br>
 `F7` - Enable Browse with keyboard (Possibly unnecessary) <br>
@@ -66,6 +50,4 @@ YouTube TV Cobalt Windows VBScript Port by itsRealM13C.
 `Ctrl + Alt + 0` - Just types `dead` on a search bar <br>
 `Ctrl + Shift + N` - Brings you to the Incognito Mode <br>
 `Ctrl + Shift + T` - Brings you to the Chroem Help (unnecessary) <br>
-
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
-
