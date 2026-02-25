@@ -32,6 +32,9 @@ YouTube TV Cobalt Windows VBScript Port by itsRealM13C.
 `Ctrl + R` - Reloads the page <br>
 `S` - Brings you to the search bar <br>
 `Ü`/`-` - Voice search <br>
+`Ctrl + Shift + C` - Opens DevTools <br>
+`Ctrl + Shift + J` - Opens DevTools <br>
+`Ctrl + W`/`Alt + F4` - Closes YouTube TV app entirely <br>
 
 ## Unnecessary hotkeys
 
@@ -45,3 +48,6 @@ YouTube TV Cobalt Windows VBScript Port by itsRealM13C.
 `Ctrl + Alt + 8` - Just types `dead` on a search bar <br>
 `Ctrl + Alt + 9` - Just types `dead` on a search bar <br>
 `Ctrl + Alt + 0` - Just types `dead` on a search bar <br>
+`Ctrl + Shift + N` - Brings you to the Incognito Mode <br>
+`Ctrl + Shift + T` - Brings you to the Chroem Help (unnecessary) <br>
+
