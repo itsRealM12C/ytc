@@ -41,9 +41,9 @@ YouTube TV Cobalt Windows VBScript Port by itsRealM13C.
 `K` - Pause <br>
 `É`/`/` - Scroll down <br>
 ## Unnecessary hotkeys
-`F1` - Brings you to the Chrome Help (unnecessary) <br>
-`F7` - Enable Browse with keyboard (Possibly unnecessary) <br>
-`Ctrl + Alt + 2` - Just types `dead` or `Undefined` on a search bar (unnecessary) <br>
+`F1` - Brings you to the Chrome Help<br>
+`F7` - Enable Browse with keyboard<br>
+`Ctrl + Alt + 2` - Just types `dead` on a search bar, on older versions, it searches up `Undefined` instead.<br>
 `Ctrl + Alt + 3` - Just types `dead` on a search bar <br>
 `Ctrl + Alt + 4` - Just types `dead` on a search bar <br>
 `Ctrl + Alt + 5` - Just types `dead` on a search bar <br>
@@ -52,6 +52,5 @@ YouTube TV Cobalt Windows VBScript Port by itsRealM13C.
 `Ctrl + Alt + 9` - Just types `dead` on a search bar <br>
 `Ctrl + Alt + 0` - Just types `dead` on a search bar <br>
 `Ctrl + Shift + N` - Brings you to the Incognito Mode <br>
-`Ctrl + Shift + T` - Brings you to the Chroem Help (unnecessary) <br>
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
-<p></p>
+`Ctrl + Shift + T` - Brings you to the Chrome Help<br>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br><p></p>
