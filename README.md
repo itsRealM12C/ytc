@@ -46,6 +46,13 @@ YouTube TV Cobalt Windows VBScript Port by itsRealM13C.
 `J` - << Backward <br>
 `É`/`/` - Next video <br>
 
+
+### Shorts
+
+`H` - Scroll up <br>
+`K` - Pause <br>
+`É` - Scroll down <br>
+
 ## Unnecessary hotkeys
 `F1` - Brings you to the Chrome Help (unnecessary) <br>
 `F7` - Enable Browse with keyboard (Possibly unnecessary) <br>
@@ -60,4 +67,5 @@ YouTube TV Cobalt Windows VBScript Port by itsRealM13C.
 `Ctrl + Shift + N` - Brings you to the Incognito Mode <br>
 `Ctrl + Shift + T` - Brings you to the Chroem Help (unnecessary) <br>
 
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+
