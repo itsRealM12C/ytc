@@ -1,7 +1,8 @@
 # ytc
 YouTube TV Cobalt Windows VBScript Port by itsRealM13C.
-<p></p><a href="YouTubeTVPort.vbs" download>Download here</a><p></p><a href="YouTubeTVPortWithVS.vbs" download>Download here with voice search support</a> 
+<p></p><a href="YouTubeTVPort.vbs" download>Download here</a><p></p><a href="YouTubeTVPortWithVS.vbs" download>Download here with voice search support</a> <p></p>
 ### Might not be supported on older OSes.
+# Screenshots
 <img src="https://raw.githubusercontent.com/itsRealM12C/ytc/refs/heads/main/Screenshot%202026-02-19%20132037.png"></img>
 <img src="https://raw.githubusercontent.com/itsRealM12C/ytc/refs/heads/main/idkdd.png"></img>
 ## It has:
@@ -51,3 +52,4 @@ YouTube TV Cobalt Windows VBScript Port by itsRealM13C.
 `Ctrl + Shift + N` - Brings you to the Incognito Mode <br>
 `Ctrl + Shift + T` - Brings you to the Chroem Help (unnecessary) <br>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<p></p>
